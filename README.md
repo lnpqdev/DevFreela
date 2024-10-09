@@ -15,4 +15,4 @@ Bem-vindo ao repositório de **Fundamentos de API .Net 8**! Este repositório te
 
 ## Certificado
 
-https://metododotnet.luisdev.com.br/certificates/xNoDrj
+[Acessar Certificado](https://metododotnet.luisdev.com.br/certificates/xNoDrj)
